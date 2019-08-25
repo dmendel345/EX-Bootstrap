@@ -1,0 +1,15 @@
+/* style is here */
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+.column {
+    background-color: lightgray;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+    float: right ;
+    text-align-last: right;
+}
